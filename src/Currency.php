@@ -1,6 +1,6 @@
 <?php
 
-namespace App\JoanRamirez\Currency;
+namespace JoanRamirez\Currency;
 
 use Goutte\Client;
 
