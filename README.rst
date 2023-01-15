@@ -10,3 +10,14 @@ Add ``joan-ramirez/currency`` as a require dependency in your ``composer.json`` 
 .. code-block:: bash
 
     composer require joan-ramirez/currency
+
+Usage
+-----
+Create a currency instance
+
+.. code-block:: php
+
+    use JoanRamirez/Currency/Currency;
+
+    $currency = new Currency();
+    
