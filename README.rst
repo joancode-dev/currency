@@ -20,4 +20,8 @@ Create a currency instance
     use JoanRamirez/Currency/Currency;
 
     $currency = new Currency();
-    
+
+License
+-------
+
+Handling-DB is licensed under the MIT license.
