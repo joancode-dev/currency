@@ -1,0 +1,20 @@
+{
+    "name": "joan-ramirez/currency",
+    "description": "Package to see the value of one currency compared to another",
+    "type": "library",
+    "require": {
+        "fabpot/goutte": "^4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JoanRamirez\\Currency\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joan-ramirez",
+            "email": "joan_montilla@hotmail.com"
+        }
+    ]
+}
