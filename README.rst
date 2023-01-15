@@ -24,4 +24,4 @@ Create a currency instance
 License
 -------
 
-Handling-DB is licensed under the MIT license.
+Currency is licensed under the MIT license.
