@@ -1,6 +1,6 @@
 Currency
 ================================
-Library to see the value of one currency compared to another
+Library to see the value of a currency in comparison with another, it accepts the change of all the currencies in the world.
 
 Installation
 ------------
