@@ -20,6 +20,21 @@ Create a currency instance
     use JoanRamirez/Currency/Currency;
 
     $currency = new Currency();
+    
+    
+Get usd value converted to euro ``change()->get()`` methods
+
+.. code-block:: php
+
+    $currency->change('USD', 'EUR')->get();   
+
+
+Get the value of $100 usd converted to eur with the ``amount()`` method
+
+.. code-block:: php
+
+    $currency->change('USD', 'EUR')->amount(100)->get();   
+
 
 License
 -------
