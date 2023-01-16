@@ -22,14 +22,14 @@ Create a currency instance
     $currency = new Currency();
     
     
-Get usd value converted to euro ``change()->get()`` methods
+Get USD value converted to EUR ``change()->get()`` methods
 
 .. code-block:: php
 
     $currency->change('USD', 'EUR')->get();   
 
 
-Get the value of $100 usd converted to eur with the ``amount()`` method
+Get the value of $100 USD converted to EUR with the ``amount()`` method
 
 .. code-block:: php
 
